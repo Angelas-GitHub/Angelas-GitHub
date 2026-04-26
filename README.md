@@ -3,7 +3,7 @@
 - 🛡️ Focus: **GDC Airgapped** & **Delos Cloud** | Sovereign Cloud & Digital Sovereignty
 - 📍 Based in **Cologne / Bonn**, Germany
 
-- 🐾 **Home Ops:** Proud companion to two Siamese cats who manage my local "datacenter" with an iron paw.
+- 🐾 **Home Ops:** Proud companion to two Siamese cats. One acts as my **Strategic Monitor** from the piano, keeping a close eye on my workstation, while the other secures the **Cabling Infrastructure** from a basket under my desk. They manage the "datacenter" with an iron paw.
 - 🛠️ **Mission:** Bridging the gap between cutting-edge Cloud Innovation and rigorous Compliance — ensuring digital sovereignty for the public sector without compromising on scale.
 
 - ⛸️ **On the Edge:** When I’m not architecting complex systems, you’ll find me **Ice Dancing**. It’s all about precision, technical edges, and balance — much like a well-orchestrated CI/CD pipeline.
